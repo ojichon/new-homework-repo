@@ -1,0 +1,1 @@
+So far I think the most challenging topic that we've covered so far is loops. Besides the syntax, the concept of a for and while loop is hard to wrap my head around 
